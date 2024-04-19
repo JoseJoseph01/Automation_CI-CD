@@ -1,0 +1,8 @@
+automationJavaDesign\pageobjects\productCatalouge.class
+automationJavaDesign\pageobjects\OrderListPage.class
+automationAbstractComponents\AbstractComponents.class
+automation\resources\ExtentReporterNG.class
+automationJavaDesign\pageobjects\LandingPage.class
+automationJavaDesign\pageobjects\CartPage.class
+automationJavaDesign\pageobjects\ConfirmationPage.class
+automationJavaDesign\pageobjects\CheckOutPage.class
